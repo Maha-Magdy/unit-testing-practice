@@ -1,16 +1,17 @@
 # unit-testing-practice
-This project is for practicing unit testing concept using Jest library.
+This project is for practicing the unit testing concept using Jest library.
 
 ## Built With
 
 - JavaScript
-- JEST
+- Jest
 
 ### Setup
 
 - To clone this repo run this code on a terminal window: 
-
+```
 git clone https://github.com/Maha-Magdy/unit-testing-practice.git
+```
 
 ## Author
 
